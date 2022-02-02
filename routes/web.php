@@ -19,6 +19,6 @@ Route::get('/', function () {
 });
 //Route::get('/induk-produk', [ProductController::class, 'indukProduk'])->name('indukProduk');
 
-Route::get('/', [LandingController::class, 'homepage'])->name('homepage');
+Route::get('/old', [LandingController::class, 'homepage'])->name('homepage');
 
-Route::get('/new', [LandingController::class, 'newHomePage'])->name('newHomepage');
+Route::get('/', [LandingController::class, 'newHomePage'])->name('newHomepage');
