@@ -315,9 +315,9 @@
             <div id="section-register" class="section m-0"
                 style="background: url('demos/seo/images/sections/1.jpg') no-repeat center center; background-size: cover; padding: 100px 0;">
                 <div class="container">
-                    <div class="row justify-content-between ">
+                    <div class="row justify-content-between align-items-center">
 
-                        <div class="col-md-5 img-mob-form">
+                        <div class="col-md-6 img-mob-form">
                             <img src="{{ asset('images/bimasakti-social.jpeg') }}" alt="" class="img-form  rounded">
                         </div>
 

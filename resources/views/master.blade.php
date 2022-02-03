@@ -22,7 +22,7 @@
     <!-- Bootstrap Switch CSS -->
     <link rel="stylesheet" href="{{ asset('css/bs-switches.css') }}" type="text/css" />
 
-    <link rel="stylesheet" href="{{ asset('css/custom.css') }}" type="text/css" />
+    <link rel="stylesheet" href="{{ asset('css/custom.css') }}?v=1.0.0" type="text/css" />
     <meta name='viewport' content='initial-scale=1, viewport-fit=cover'>
 
     <!-- Seo Demo Specific Stylesheet -->
